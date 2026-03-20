@@ -1,2 +1,2 @@
 # _DSA_Programming_
-This is my first 2nd sem program in DSA.
+Hi, Buddy my name is Raushan.A mca student in rungta university this is my first porject in DSA in second sem.
